@@ -1,0 +1,5 @@
+# Algeria Jobs Portal — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://nosbos2323.github.io/algeria-jobs-portal/sitemap.xml
